@@ -19,3 +19,5 @@
 出品: FIBOS 团队
 															
 2018.7.18
+
+[Bancor微信讨论组](https://github.com/anlebcoder/bancor/blob/master/qr.jpeg)
